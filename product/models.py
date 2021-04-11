@@ -3,7 +3,7 @@ from PIL import Image
 from django.core.files import File
 from django.db import models
 
-BASE_CON_URL= 'http://127.0.0.1:8000'
+BASE_CON_URL = 'http://127.0.0.1:8000'
 
 class Category(models.Model):
     name = models.CharField(max_length=255)
