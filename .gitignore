@@ -1,0 +1,7 @@
+__pycache__
+*/__pycache__
+*__pycache__
+djackets_django/product/__pycache__
+djackets_django/__pycache__/settings.cpython-36.pyc
+product/__pycache__/models.cpython-36.pyc
+product/__pycache__/views.cpython-36.pyc
